@@ -1,0 +1,23 @@
+body {
+    
+}
+
+.X {
+    display: flex;
+    height: 30px;
+}
+
+.X div, .Y div {
+    width: 25px;
+    height: 50px;
+    border: 1px solid black;
+    background-color: light gray;
+    flex: 1;
+}
+
+#screen {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
