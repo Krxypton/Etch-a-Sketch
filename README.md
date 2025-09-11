@@ -43,4 +43,4 @@ Users can dynamically generate a grid of custom size and draw by hovering over s
 ---
 
 ## Author
-Built by [Your Name](https://github.com/YourGitHub).
+Built by Zubair Osman
